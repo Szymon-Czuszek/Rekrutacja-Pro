@@ -47,14 +47,17 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 - Dodawanie, edycja i usuwanie ofert pracy przez pracodawców.
 - Przeglądanie ofert pracy przez kandydatów.
 - Aplikowanie na oferty pracy przez kandydatów.
+
 **Wyszukiwanie ofert pracy:**
 - Zaawansowane opcje filtrowania ofert pracy.
 - Preselekcja kandydatów:
 - Automatyczna ocena dopasowania kandydata do oferty pracy.
 - Ręczna preselekcja przez pracodawcę.
+
 **Komunikacja:**
 - Wysyłanie powiadomień o zmianach w statusie aplikacji.
 - Komunikacja między pracodawcą a kandydatem poprzez platformę.
+
 **Zarządzanie użytkownikami:**
 - Rejestracja i logowanie użytkowników.
 - Przyznawanie ról i uprawnień.
@@ -66,23 +69,28 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 - Wykorzystanie języka TypeScript oraz frameworka Angular do budowy interfejsu użytkownika.
 - Wykorzystanie języka Java oraz frameworka Spring do budowy backendu aplikacji.
 - Baza danych MySQL.
+
 **Wydajność:**
 - Czas odpowiedzi aplikacji nie dłuższy niż 2 sekundy.
 - Obsługa jednoczesnych zapytań od 1000 użytkowników.
+
 **Bezpieczeństwo:**
 - Mechanizmy uwierzytelniania i autoryzacji użytkowników.
 - Szyfrowanie danych przesyłanych między klientem a serwerem.
 - Mechanizmy zabezpieczające przed atakami typu SQL Injection oraz Cross-Site Scripting (XSS).
+
 **Dostępność:**
 - Aplikacja dostępna 24/7, z minimalnym czasem przestoju na potrzeby konserwacji.
 - Zapewnienie skalowalności aplikacji w razie wzrostu liczby użytkowników.
-- 
+
 ### Pozostałe wymagania
 
 **Interfejs użytkownika:**
 - Responsywny interfejs użytkownika dostosowany do różnych urządzeń (komputery, tablety, telefony).
+
 **Dokumentacja:**
 - Dokumentacja techniczna i użytkowa systemu.
+
 **Testowanie:**
 - Testy jednostkowe, integracyjne i akceptacyjne aplikacji.
 - Zapewnienie pokrycia testami na poziomie co najmniej 80%.
