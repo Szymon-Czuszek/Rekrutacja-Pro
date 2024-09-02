@@ -110,13 +110,15 @@ Weryfikacja wymagań będzie odbywać się w następujący sposób:
 - **Problemy z bezpieczeństwem:** W przypadku ataków hakerskich lub błędów w implementacji zabezpieczeń, dane użytkowników mogą być zagrożone.
 
 ## Diagram wymagań systemowych (VP)
-![Diagram Wymagań - Grafika.png](Pictures/Diagram%20Wymagań%20-%20Grafika.png)
+<img src="\Pictures\Diagram%20Wymagań%20-%20Grafika.png" width="1000" alt="Requirement Diagram Picture"/>
+
 **Diagram wymagań systemowych (VP) ma za zadanie:**
 - Opisać wszystkie wymagania w notacji podstawowej w VP, w tym opis, źródło pochodzenia, rodzaj, metodę weryfikacji zakodowanego wymagania, ryzyko oraz status.
 - Zawierać związki między wymaganiami, takie jak zagnieżdżenie, zależność wyprowadzania, realizacji, powielania, weryfikowania, precyzowania oraz śledzenia.
 
 ## Diagram czynności (VP)
-![Diagram Aktywności - Grafika.png](Pictures/Diagram%20Aktywności%20-%20Grafika.png)
+<img src="\Pictures\Diagram%20Aktywności%20-%20Grafika.png" width="1000" alt="Activity Diagram Picture"/>
+
 Rozszerzony diagram czynności (VP) lub diagram czynności (VP) powinien zawierać elementy zależne od analizowanego procesu i zdefiniowanych wymagań, takie jak czynności/akcje, przepływy sterowania oraz przepływy danych. Na diagramie, czynności powinny być zgrupowane według poszczególnych udziałowców systemu informatycznego (SI).
 
 ## Podsumowanie
