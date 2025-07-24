@@ -2,7 +2,7 @@
 
 Projekt z przedmiotu Inżynieria Oprogramowania II, zawierający dokumentację, diagram aktywności i diagram wymagań systemowych.
 
-## Krótka charakterystyka organizacji
+## 🏢 Krótka charakterystyka organizacji
 
 **Organizacja:** Mikro przedsiębiorstwo z sektora usług, zajmujące się udostępnianiem systemu informatycznego służącego do wyszukiwania ofert pracy przez użytkownika, zamieszczania ofert pracy przez pracodawcę oraz udostępnia opcje wyszukiwania pracowników na podstawie stworzonego CV użytkownika.
 
