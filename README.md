@@ -10,7 +10,8 @@ Projekt z przedmiotu Inżynieria Oprogramowania II, zawierający dokumentację, 
 - 🧠 udostępnia opcje wyszukiwania pracowników na podstawie stworzonego CV użytkownika.
 
 **Liczba zatrudnionych:**
-- 👨‍💼 Team leader (również główny programista); 3 programistów (dwóch back-end developer i jeden front-end developer); 1 analityk biznesowy; 1 tester.
+- 👨‍💼 Team leader (również główny programista)
+- 👨‍💻 3 programistów (dwóch back-end developer i jeden front-end developer); 1 analityk biznesowy; 1 tester.
 
 **Stosowane systemy informatyczne w organizacji:** Portal Rekrutacja Pro; Pakiet Office (głównie Excel, Power Bi, MS Teams, Outlook); Google Cloud; Visual Studio Code; System bazy danych SQL.
 
