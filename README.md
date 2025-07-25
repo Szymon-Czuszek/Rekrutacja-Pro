@@ -5,7 +5,9 @@ Projekt z przedmiotu Inżynieria Oprogramowania II, zawierający dokumentację, 
 ## 🏢 Krótka charakterystyka organizacji
 
 **Organizacja:** Mikro przedsiębiorstwo z sektora usług, zajmujące się udostępnianiem systemu informatycznego służącego do:
-- 🔍 wyszukiwania ofert pracy przez użytkownika, zamieszczania ofert pracy przez pracodawcę oraz udostępnia opcje wyszukiwania pracowników na podstawie stworzonego CV użytkownika.
+- 🔍 wyszukiwania ofert pracy przez użytkownika
+- 📢 zamieszczania ofert pracy przez pracodawcę
+- udostępnia opcje wyszukiwania pracowników na podstawie stworzonego CV użytkownika.
 
 **Liczba zatrudnionych:** Team leader (również główny programista); 3 programistów (dwóch back-end developer i jeden front-end developer); 1 analityk biznesowy; 1 tester.
 
