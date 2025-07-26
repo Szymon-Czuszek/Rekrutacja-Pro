@@ -16,7 +16,8 @@ Projekt z przedmiotu Inżynieria Oprogramowania II, zawierający dokumentację, 
 - 📊 1 tester
 
 **Stosowane systemy informatyczne w organizacji:**
-- 🖥️ Portal Rekrutacja Pro; Pakiet Office (głównie Excel, Power Bi, MS Teams, Outlook); Google Cloud; Visual Studio Code; System bazy danych SQL.
+- 🖥️ Portal Rekrutacja Pro
+- 📊 Pakiet Office (głównie Excel, Power Bi, MS Teams, Outlook); Google Cloud; Visual Studio Code; System bazy danych SQL.
 
 ## Analiza problemu biznesowego
 
