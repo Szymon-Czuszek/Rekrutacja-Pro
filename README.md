@@ -25,7 +25,7 @@ Projekt Rekrutacja Pro ma na celu rozwiązanie problemów biznesowych związanyc
 
 **🔁 Procesy:** Niezorganizowany proces rekrutacji; Ograniczone opcje wyszukiwania.
 
-**Ludzie:** Trudności w preselekcji kandydatów; Brak efektywnej komunikacji.
+**👥 Ludzie:** Trudności w preselekcji kandydatów; Brak efektywnej komunikacji.
 
 **Narzędzia:** Brak jednolitej platformy rekrutacyjnej; Złożoność wyszukiwania pracowników.
 
