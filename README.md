@@ -36,7 +36,7 @@ Projekt Rekrutacja Pro ma na celu rozwiązanie problemów biznesowych związanyc
 Przebieg procesu biznesowego w kontekście projektu Rekrutacja Pro obejmuje m.in.
 - zamieszczanie ofert pracy przez pracodawcę, wyszukiwanie ofert pracy przez użytkownika, aplikowanie na ofertę pracy przez kandydata, preselekcję kandydatów, komunikację między stronami oraz podjęcie decyzji o zatrudnieniu.
 
-## Cel biznesowy realizacji SI
+## 🎯 Cel biznesowy realizacji SI
 
 Celem projektu Rekrutacja Pro jest ułatwienie, przyspieszenie i zwiększenie efektywności procesu rekrutacyjnego poprzez wprowadzenie systemu informatycznego, który usprawni współpracę między pracodawcami a kandydatami oraz zminimalizuje trudności związane z organizacją i zarządzaniem danymi rekrutacyjnymi.
 
