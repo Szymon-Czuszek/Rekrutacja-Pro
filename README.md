@@ -46,7 +46,7 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 
 **👨‍💼 Pracodawcy:** Osoby lub firmy, które zamieszczają oferty pracy.
 **🙋‍♂️ Kandydaci:** Osoby poszukujące pracy i aplikujące na oferty pracy.
-**Administratorzy:** Osoby odpowiedzialne za zarządzanie systemem i danymi.
+**🛠️ Administratorzy:** Osoby odpowiedzialne za zarządzanie systemem i danymi.
 **Testersi:** Osoby odpowiedzialne za testowanie i weryfikację poprawności działania systemu.
 
 ## Wymagania systemowe
