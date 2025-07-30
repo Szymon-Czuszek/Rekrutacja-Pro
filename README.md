@@ -49,7 +49,7 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 **🛠️ Administratorzy:** Osoby odpowiedzialne za zarządzanie systemem i danymi.
 **Testersi:** Osoby odpowiedzialne za testowanie i weryfikację poprawności działania systemu.
 
-## Wymagania systemowe
+## ✅ Wymagania systemowe
 
 ### Funkcjonalne
 
