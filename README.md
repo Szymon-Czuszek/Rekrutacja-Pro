@@ -51,7 +51,7 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 
 ## ✅ Wymagania systemowe
 
-### Funkcjonalne
+### ⚙️ Funkcjonalne
 
 **Zarządzanie ofertami pracy:**
 - Dodawanie, edycja i usuwanie ofert pracy przez pracodawców.
