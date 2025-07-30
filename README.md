@@ -53,7 +53,7 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 
 ### ⚙️ Funkcjonalne
 
-**Zarządzanie ofertami pracy:**
+**📄 Zarządzanie ofertami pracy:**
 - Dodawanie, edycja i usuwanie ofert pracy przez pracodawców.
 - Przeglądanie ofert pracy przez kandydatów.
 - Aplikowanie na oferty pracy przez kandydatów.
