@@ -74,7 +74,7 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 
 ### 📐 Niefunkcjonalne
 
-**Wykorzystanie technologii:**
+**🧱 Wykorzystanie technologii:**
 - Aplikacja webowa oparta na architekturze RESTful API.
 - Wykorzystanie języka TypeScript oraz frameworka Angular do budowy interfejsu użytkownika.
 - Wykorzystanie języka Java oraz frameworka Spring do budowy backendu aplikacji.
