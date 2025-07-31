@@ -64,7 +64,7 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 - Automatyczna ocena dopasowania kandydata do oferty pracy.
 - Ręczna preselekcja przez pracodawcę.
 
-**Komunikacja:**
+**💬 Komunikacja:**
 - Wysyłanie powiadomień o zmianach w statusie aplikacji.
 - Komunikacja między pracodawcą a kandydatem poprzez platformę.
 
