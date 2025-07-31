@@ -72,7 +72,7 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 - Rejestracja i logowanie użytkowników.
 - Przyznawanie ról i uprawnień.
 
-### Niefunkcjonalne
+### 📐 Niefunkcjonalne
 
 **Wykorzystanie technologii:**
 - Aplikacja webowa oparta na architekturze RESTful API.
