@@ -84,7 +84,7 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 - Czas odpowiedzi aplikacji nie dłuższy niż 2 sekundy.
 - Obsługa jednoczesnych zapytań od 1000 użytkowników.
 
-**Bezpieczeństwo:**
+**🔐 Bezpieczeństwo:**
 - Mechanizmy uwierzytelniania i autoryzacji użytkowników.
 - Szyfrowanie danych przesyłanych między klientem a serwerem.
 - Mechanizmy zabezpieczające przed atakami typu SQL Injection oraz Cross-Site Scripting (XSS).
