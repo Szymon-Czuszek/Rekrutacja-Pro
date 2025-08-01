@@ -80,7 +80,7 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 - Wykorzystanie języka Java oraz frameworka Spring do budowy backendu aplikacji.
 - Baza danych MySQL.
 
-**Wydajność:**
+**⚡ Wydajność:**
 - Czas odpowiedzi aplikacji nie dłuższy niż 2 sekundy.
 - Obsługa jednoczesnych zapytań od 1000 użytkowników.
 
