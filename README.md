@@ -93,7 +93,7 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 - Aplikacja dostępna 24/7, z minimalnym czasem przestoju na potrzeby konserwacji.
 - Zapewnienie skalowalności aplikacji w razie wzrostu liczby użytkowników.
 
-### Pozostałe wymagania
+### 💼 Pozostałe wymagania
 
 **Interfejs użytkownika:**
 - Responsywny interfejs użytkownika dostosowany do różnych urządzeń (komputery, tablety, telefony).
