@@ -113,7 +113,7 @@ Weryfikacja wymagań będzie odbywać się w następujący sposób:
 - **Testy automatyczne:** Implementacja testów jednostkowych, integracyjnych i akceptacyjnych do automatycznej weryfikacji funkcjonalności i wydajności systemu.
 - **Review kodu:** Przegląd kodu przez członków zespołu deweloperskiego w celu zapewnienia zgodności z wymaganiami funkcjonalnymi i niefunkcjonalnymi.
 
-## Ryzyka projektowe
+## ⚠️ Ryzyka projektowe
 
 - **Opóźnienie w implementacji:** Spowodowane może być np. problemami technicznymi lub trudnościami w rekrutacji dodatkowych członków zespołu.
 - **Niezgodność z oczekiwaniami użytkowników:** Wymagania użytkowników mogą się zmieniać w trakcie realizacji projektu, co może prowadzić do konieczności wprowadzania znaczących zmian w systemie.
