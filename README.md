@@ -131,6 +131,6 @@ Weryfikacja wymagań będzie odbywać się w następujący sposób:
 
 Rozszerzony diagram czynności (VP) lub diagram czynności (VP) powinien zawierać elementy zależne od analizowanego procesu i zdefiniowanych wymagań, takie jak czynności/akcje, przepływy sterowania oraz przepływy danych. Na diagramie, czynności powinny być zgrupowane według poszczególnych udziałowców systemu informatycznego (SI).
 
-## Podsumowanie
+## 🧾 Podsumowanie
 
 Projekt Rekrutacja Pro ma na celu stworzenie kompleksowego systemu wspierającego proces rekrutacji pracowników. Wymagań dotyczących funkcjonalności oraz niefunkcjonalności zostały szczegółowo opisane i poddane weryfikacji. Realizacja projektu będzie obejmować analizę, projektowanie, implementację, testowanie oraz wdrożenie systemu, z uwzględnieniem określonego harmonogramu i ryzyk.
