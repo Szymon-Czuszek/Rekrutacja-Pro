@@ -117,7 +117,7 @@ Weryfikacja wymagań będzie odbywać się w następujący sposób:
 
 - **⏳ Opóźnienie w implementacji:** Spowodowane może być np. problemami technicznymi lub trudnościami w rekrutacji dodatkowych członków zespołu.
 - **❌ Niezgodność z oczekiwaniami użytkowników:** Wymagania użytkowników mogą się zmieniać w trakcie realizacji projektu, co może prowadzić do konieczności wprowadzania znaczących zmian w systemie.
-- **Problemy z bezpieczeństwem:** W przypadku ataków hakerskich lub błędów w implementacji zabezpieczeń, dane użytkowników mogą być zagrożone.
+- **🔓 Problemy z bezpieczeństwem:** W przypadku ataków hakerskich lub błędów w implementacji zabezpieczeń, dane użytkowników mogą być zagrożone.
 
 ## 📊 Diagram wymagań systemowych (VP)
 <img src="\Pictures\Diagram%20Wymagań%20-%20Grafika.png" width="1000" alt="Requirement Diagram Picture"/>
