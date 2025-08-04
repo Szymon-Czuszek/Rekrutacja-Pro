@@ -122,7 +122,7 @@ Weryfikacja wymagań będzie odbywać się w następujący sposób:
 ## 📊 Diagram wymagań systemowych (VP)
 <img src="\Pictures\Diagram%20Wymagań%20-%20Grafika.png" width="1000" alt="Requirement Diagram Picture"/>
 
-**Diagram wymagań systemowych (VP) ma za zadanie:**
+**🎯 Diagram wymagań systemowych (VP) ma za zadanie:**
 - Opisać wszystkie wymagania w notacji podstawowej w VP, w tym opis, źródło pochodzenia, rodzaj, metodę weryfikacji zakodowanego wymagania, ryzyko oraz status.
 - Zawierać związki między wymaganiami, takie jak zagnieżdżenie, zależność wyprowadzania, realizacji, powielania, weryfikowania, precyzowania oraz śledzenia.
 
