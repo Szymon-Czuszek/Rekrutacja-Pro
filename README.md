@@ -130,8 +130,8 @@ Weryfikacja wymagań będzie odbywać się w następujący sposób:
 <img src="\Pictures\Diagram%20Aktywności%20-%20Grafika.png" width="1000" alt="Activity Diagram Picture"/>
 
 Rozszerzony diagram czynności (VP) lub diagram czynności (VP) powinien zawierać elementy zależne od analizowanego procesu i zdefiniowanych wymagań, takie jak
-- czynności/akcje,
-- 🔁 przepływy sterowania
+- 🚀 czynności/akcje,
+- 🔁 przepływy sterowania,
 - 👥 przepływy danych.
 
 Na diagramie, czynności powinny być zgrupowane według poszczególnych udziałowców systemu informatycznego (SI).
