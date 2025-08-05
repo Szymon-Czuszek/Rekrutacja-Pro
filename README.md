@@ -131,7 +131,7 @@ Weryfikacja wymagań będzie odbywać się w następujący sposób:
 
 Rozszerzony diagram czynności (VP) lub diagram czynności (VP) powinien zawierać elementy zależne od analizowanego procesu i zdefiniowanych wymagań, takie jak
 - czynności/akcje,
-- przepływy sterowania
+- 🔁 przepływy sterowania
 - przepływy danych.
 
 Na diagramie, czynności powinny być zgrupowane według poszczególnych udziałowców systemu informatycznego (SI).
