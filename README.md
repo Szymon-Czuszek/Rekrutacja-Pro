@@ -109,7 +109,7 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 
 Weryfikacja wymagań będzie odbywać się w następujący sposób:
 
-- **Testowanie manualne:** Przeprowadzenie testów przez zespół testerski w celu weryfikacji poprawności działania aplikacji.
+- **🧪 Testowanie manualne:** Przeprowadzenie testów przez zespół testerski w celu weryfikacji poprawności działania aplikacji.
 - **Testy automatyczne:** Implementacja testów jednostkowych, integracyjnych i akceptacyjnych do automatycznej weryfikacji funkcjonalności i wydajności systemu.
 - **Review kodu:** Przegląd kodu przez członków zespołu deweloperskiego w celu zapewnienia zgodności z wymaganiami funkcjonalnymi i niefunkcjonalnymi.
 
