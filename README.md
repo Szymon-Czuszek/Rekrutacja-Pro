@@ -19,7 +19,8 @@ Projekt z przedmiotu Inżynieria Oprogramowania II, zawierający dokumentację, 
 - 🖥️ Portal Rekrutacja Pro
 - 📊 Pakiet Office (głównie Excel, Power Bi, MS Teams, Outlook);
 - ☁️ Google Cloud;
-- 💻 Visual Studio Code; System bazy danych SQL.
+- 💻 Visual Studio Code;
+- 🗃️ System bazy danych SQL.
 
 ## 📉 Analiza problemu biznesowego
 
