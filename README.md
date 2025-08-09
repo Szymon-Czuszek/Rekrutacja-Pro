@@ -69,7 +69,7 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 
 **🔍 Wyszukiwanie ofert pracy:**
 - Zaawansowane opcje filtrowania ofert pracy.
-- Preselekcja kandydatów:
+- Preselekcja kandydatów
 - Automatyczna ocena dopasowania kandydata do oferty pracy.
 - Ręczna preselekcja przez pracodawcę.
 
@@ -123,7 +123,6 @@ Weryfikacja wymagań będzie odbywać się w następujący sposób:
 - **👀 Review kodu:** Przegląd kodu przez członków zespołu deweloperskiego w celu zapewnienia zgodności z wymaganiami funkcjonalnymi i niefunkcjonalnymi.
 
 ## ⚠️ Ryzyka projektowe
-
 - **⏳ Opóźnienie w implementacji:** Spowodowane może być np. problemami technicznymi lub trudnościami w rekrutacji dodatkowych członków zespołu.
 - **❌ Niezgodność z oczekiwaniami użytkowników:** Wymagania użytkowników mogą się zmieniać w trakcie realizacji projektu, co może prowadzić do konieczności wprowadzania znaczących zmian w systemie.
 - **🔓 Problemy z bezpieczeństwem:** W przypadku ataków hakerskich lub błędów w implementacji zabezpieczeń, dane użytkowników mogą być zagrożone.
