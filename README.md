@@ -34,7 +34,8 @@
 - Brak jednolitej platformy rekrutacyjnej;
 - Złożoność wyszukiwania pracowników.
 
-**💡 Rozwiązanie problemu** polega na stworzeniu systemu RekrutacjaPro, który integruje wszystkie etapy procesu rekrutacyjnego, oferuje zaawansowane opcje wyszukiwania, ułatwia preselekcję kandydatów i poprawia komunikację między pracodawcą a kandydatem.
+**💡 Rozwiązanie problemu** polega na stworzeniu systemu RekrutacjaPro, który:
+- integruje wszystkie etapy procesu rekrutacyjnego, oferuje zaawansowane opcje wyszukiwania, ułatwia preselekcję kandydatów i poprawia komunikację między pracodawcą a kandydatem.
 
 ## 🔄 Przebieg procesu biznesowego
 
