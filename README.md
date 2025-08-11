@@ -90,7 +90,7 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 - Baza danych MySQL.
 
 **⚡ Wydajność:**
-- Czas odpowiedzi aplikacji nie dłuższy niż 2 sekundy.
+- ⏱️ Czas odpowiedzi aplikacji nie dłuższy niż 2 sekundy.
 - Obsługa jednoczesnych zapytań od 1000 użytkowników.
 
 **🔐 Bezpieczeństwo:**
