@@ -90,7 +90,7 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 - 🌐 Aplikacja webowa oparta na architekturze RESTful API.
 - 📜 Wykorzystanie języka TypeScript oraz frameworka Angular do budowy interfejsu użytkownika.
 - ☕ Wykorzystanie języka Java oraz frameworka Spring do budowy backendu aplikacji.
-- Baza danych MySQL.
+- 🐬 Baza danych MySQL.
 
 **⚡ Wydajność:**
 - ⏱️ Czas odpowiedzi aplikacji nie dłuższy niż 2 sekundy.
