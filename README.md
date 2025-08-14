@@ -99,7 +99,7 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 **🔐 Bezpieczeństwo:**
 - 🗄️ Mechanizmy uwierzytelniania i autoryzacji użytkowników.
 - 🟦 Szyfrowanie danych przesyłanych między klientem a serwerem.
-- Mechanizmy zabezpieczające przed atakami typu SQL Injection oraz Cross-Site Scripting (XSS).
+- 💻 Mechanizmy zabezpieczające przed atakami typu SQL Injection oraz Cross-Site Scripting (XSS).
 
 **🌐 Dostępność:**
 - Aplikacja dostępna 24/7, z minimalnym czasem przestoju na potrzeby konserwacji.
