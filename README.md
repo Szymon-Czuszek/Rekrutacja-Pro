@@ -24,7 +24,9 @@
 
 ## 📉 Analiza problemu biznesowego
 
-- Projekt Rekrutacja Pro ma na celu rozwiązanie problemów biznesowych związanych z procesem rekrutacji pracowników. Kluczowe wyzwania identyfikowane w procesie to:
+- 💻 Mechanizmy zabezpieczające przed atakami typu SQL Injection oraz Cross-Site Scripting (XSS).Projekt Rekrutacja Pro ma na celu rozwiązanie problemów biznesowych związanych z procesem rekrutacji pracowników.
+
+Kluczowe wyzwania identyfikowane w procesie to:
 
 **🔁 Procesy:** Niezorganizowany proces rekrutacji; Ograniczone opcje wyszukiwania.
 
