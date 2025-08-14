@@ -70,7 +70,7 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 **📄 Zarządzanie ofertami pracy:**
 - Dodawanie, edycja i usuwanie ofert pracy przez pracodawców.
 - Przeglądanie ofert pracy przez kandydatów.
-- Aplikowanie na oferty pracy przez kandydatów.
+- 🅰️ Aplikowanie na oferty pracy przez kandydatów.
 
 **🔍 Wyszukiwanie ofert pracy:**
 - Zaawansowane opcje filtrowania ofert pracy.
