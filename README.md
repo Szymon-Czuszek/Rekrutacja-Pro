@@ -75,7 +75,7 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 **🔍 Wyszukiwanie ofert pracy:**
 - 🎯 Zaawansowane opcje filtrowania ofert pracy.
 - 🧑‍💼 Preselekcja kandydatów
-- Automatyczna ocena dopasowania kandydata do oferty pracy.
+- 🤖 Automatyczna ocena dopasowania kandydata do oferty pracy.
 - Ręczna preselekcja przez pracodawcę.
 
 **💬 Komunikacja:**
