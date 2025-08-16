@@ -38,7 +38,7 @@ Kluczowe wyzwania identyfikowane w procesie to:
 
 **💡 Rozwiązanie problemu** polega na stworzeniu systemu RekrutacjaPro, który:
 - 🔗 integruje wszystkie etapy procesu rekrutacyjnego.
-- oferuje zaawansowane opcje wyszukiwania,
+- 🔍 oferuje zaawansowane opcje wyszukiwania.
 - ułatwia preselekcję kandydatów i poprawia komunikację między pracodawcą a kandydatem.
 
 ## 🔄 Przebieg procesu biznesowego
