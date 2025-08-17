@@ -79,8 +79,8 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 - ✍️ Ręczna preselekcja przez pracodawcę.
 
 **💬 Komunikacja:**
-- 📩 Wysyłanie powiadomień o zmianach w statusie aplikacji.
-- Komunikacja między pracodawcą a kandydatem poprzez platformę.
+- 🔔 Wysyłanie powiadomień o zmianach w statusie aplikacji.
+- 📩 Komunikacja między pracodawcą a kandydatem poprzez platformę.
 
 **👤 Zarządzanie użytkownikami:**
 - Rejestracja i logowanie użytkowników.
