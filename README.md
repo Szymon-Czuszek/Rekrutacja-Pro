@@ -83,7 +83,7 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 - 📩 Komunikacja między pracodawcą a kandydatem poprzez platformę.
 
 **👤 Zarządzanie użytkownikami:**
-- Rejestracja i logowanie użytkowników.
+- 🔑 Rejestracja i logowanie użytkowników.
 - Przyznawanie ról i uprawnień.
 
 ### 📐 Niefunkcjonalne
