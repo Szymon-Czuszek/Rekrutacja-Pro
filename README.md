@@ -84,7 +84,7 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 
 **👤 Zarządzanie użytkownikami:**
 - 🔑 Rejestracja i logowanie użytkowników.
-- Przyznawanie ról i uprawnień.
+- 🛡️ Przyznawanie ról i uprawnień.
 
 ### 📐 Niefunkcjonalne
 
