@@ -104,7 +104,7 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 - 💻 Mechanizmy zabezpieczające przed atakami typu SQL Injection oraz Cross-Site Scripting (XSS).
 
 **🌐 Dostępność:**
-- Aplikacja dostępna 24/7, z minimalnym czasem przestoju na potrzeby konserwacji.
+- 🕐 Aplikacja dostępna 24/7, z minimalnym czasem przestoju na potrzeby konserwacji.
 - Zapewnienie skalowalności aplikacji w razie wzrostu liczby użytkowników.
 
 ### 💼 Pozostałe wymagania
