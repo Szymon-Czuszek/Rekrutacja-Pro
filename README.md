@@ -33,7 +33,7 @@ Kluczowe wyzwania identyfikowane w procesie to:
 **👥 Ludzie:** Trudności w preselekcji kandydatów; Brak efektywnej komunikacji.
 
 **🧰 Narzędzia:** 
-- Brak jednolitej platformy rekrutacyjnej;
+- 🧩 Brak jednolitej platformy rekrutacyjnej;
 - 🌀 Złożoność wyszukiwania pracowników.
 
 **💡 Rozwiązanie problemu** polega na stworzeniu systemu RekrutacjaPro, który:
