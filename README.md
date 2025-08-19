@@ -116,7 +116,7 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 - 📖 Dokumentacja techniczna i użytkowa systemu.
 
 **🧪 Testowanie:**
-- Testy jednostkowe, integracyjne i akceptacyjne aplikacji.
+- ✅ Testy jednostkowe, integracyjne i akceptacyjne aplikacji.
 - Zapewnienie pokrycia testami na poziomie co najmniej 80%.
 
 ## 🔎 Weryfikacja wymagań
