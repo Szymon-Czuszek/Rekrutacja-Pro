@@ -113,7 +113,7 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 - 📱 Responsywny interfejs użytkownika dostosowany do różnych urządzeń (komputery, tablety, telefony).
 
 **📚 Dokumentacja:**
-- Dokumentacja techniczna i użytkowa systemu.
+- 📖 Dokumentacja techniczna i użytkowa systemu.
 
 **🧪 Testowanie:**
 - Testy jednostkowe, integracyjne i akceptacyjne aplikacji.
