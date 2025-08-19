@@ -110,7 +110,7 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 ### 💼 Pozostałe wymagania
 
 **🖼️ Interfejs użytkownika:**
-- Responsywny interfejs użytkownika dostosowany do różnych urządzeń (komputery, tablety, telefony).
+- 📱 Responsywny interfejs użytkownika dostosowany do różnych urządzeń (komputery, tablety, telefony).
 
 **📚 Dokumentacja:**
 - Dokumentacja techniczna i użytkowa systemu.
