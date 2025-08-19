@@ -105,7 +105,7 @@ Udziałowcy systemu to wszyscy, którzy korzystają z platformy Rekrutacja Pro:
 
 **🌐 Dostępność:**
 - 🕐 Aplikacja dostępna 24/7, z minimalnym czasem przestoju na potrzeby konserwacji.
-- Zapewnienie skalowalności aplikacji w razie wzrostu liczby użytkowników.
+- 📈 Zapewnienie skalowalności aplikacji w razie wzrostu liczby użytkowników.
 
 ### 💼 Pozostałe wymagania
 
