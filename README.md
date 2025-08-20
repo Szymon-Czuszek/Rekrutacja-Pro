@@ -27,10 +27,8 @@
 - 💻 Mechanizmy zabezpieczające przed atakami typu SQL Injection oraz Cross-Site Scripting (XSS).Projekt Rekrutacja Pro ma na celu rozwiązanie problemów biznesowych związanych z procesem rekrutacji pracowników.
 
 Kluczowe wyzwania identyfikowane w procesie to:
-
-**🔁 Procesy:** Niezorganizowany proces rekrutacji; Ograniczone opcje wyszukiwania.
-
-**👥 Ludzie:** Trudności w preselekcji kandydatów; Brak efektywnej komunikacji.
+- **🔁 Procesy:** Niezorganizowany proces rekrutacji; Ograniczone opcje wyszukiwania.
+- **👥 Ludzie:** Trudności w preselekcji kandydatów; Brak efektywnej komunikacji.
 
 **🧰 Narzędzia:** 
 - 🧩 Brak jednolitej platformy rekrutacyjnej;
