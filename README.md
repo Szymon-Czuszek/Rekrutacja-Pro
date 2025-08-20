@@ -1,6 +1,6 @@
 # 🎯 Rekrutacja Pro
 
-- Projekt z przedmiotu Inżynieria Oprogramowania II, zawierający dokumentację, diagram aktywności i diagram wymagań systemowych.
+- 📘 Projekt z przedmiotu Inżynieria Oprogramowania II, zawierający dokumentację, diagram aktywności i diagram wymagań systemowych.
 
 ## 🏢 Krótka charakterystyka organizacji
 
